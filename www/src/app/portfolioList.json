@@ -1,0 +1,304 @@
+[
+    {
+        "_id": 1,
+        "start_date": 2002,
+        "end_date": "2003",
+        "client": "berichinlove",
+        "description": "BeRichinlove was designed and develoed by yours truly. This one page Wedding site was meant to be a one stop shop for guests to find out more details about the wedding day and a way to RSVP. The content was personalized based on the guests' personal code that was given through a personalized digital invitation.",
+        "blurb": "Single page wedding website",
+        "image_fallback": {
+            "src": "/clients/berichinlove/main.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "image_main": {
+            "src": "/clients/berichinlove/main.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "image_thumbnail": {
+            "src": "/clients/berichinlove/thumbnail.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "background_color": "#98a77a",
+        "image_gallery": [""],
+        "src": "berichinlove.com",
+        "tags": ["website", "react"]
+    },
+    {
+        "_id": 2,
+        "start_date": 2002,
+        "end_date": 2003,
+        "client": "brstory",
+        "description": "Single page wedding website",
+        "blurb": "Photobooth Service",
+        "image_fallback": {
+            "src": "/clients/berichinlove/main.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "image_main": {
+            "src": "/clients/berichinlove/main.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "image_thumbnail": {
+            "src": "/clients/berichinlove/thumbnail.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "featured_image": {
+            "feature": "main.png",
+            "thumbnail": "thumbnail.png",
+            "custom": "",
+            "client": "berichinlove - Single page wedding website",
+            "background_color": "#98a77a"
+        },
+        "background_color": "#f5ddd8",
+        "images": [""],
+        "src": "brstory.com",
+        "tags": ["website", "react"]
+    },
+    {
+        "_id": 3,
+        "start_date": 2015,
+        "end_date": 2020,
+        "client": "melanieliying",
+        "description": "Single page wedding website",
+        "blurb": "Post Portume Serivce",
+        "image_fallback": {
+            "src": "/clients/berichinlove/main.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "image_main": {
+            "src": "/clients/berichinlove/main.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "image_thumbnail": {
+            "src": "/clients/berichinlove/thumbnail.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "background_color": "#cce2e1",
+        "images": ["image-1.png"],
+        "src": "melanieliying.com",
+        "tags": ["website", "Shopify", "Liquid"]
+    },
+    {
+        "_id": 4,
+        "start_date": 2015,
+        "end_date": 2020,
+        "client": "viva naturals",
+        "description": "Single page wedding website",
+        "blurb": "e-commerce",
+        "image_fallback": {
+            "src": "/clients/berichinlove/main.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "image_main": {
+            "src": "/clients/berichinlove/main.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "image_thumbnail": {
+            "src": "/clients/berichinlove/thumbnail.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "background_color": "#cce2e1",
+        "images": ["image-1.png"],
+        "src": "vivanaturals.com",
+        "tags": ["website", "Shopify", "Liquid"]
+    },
+    {
+        "_id": 1,
+        "start_date": 2002,
+        "end_date": "2003",
+        "client": "berichinlove",
+        "description": "BeRichinlove was designed and develoed by yours truly. This one page Wedding site was meant to be a one stop shop for guests to find out more details about the wedding day and a way to RSVP. The content was personalized based on the guests' personal code that was given through a personalized digital invitation.",
+        "blurb": "Single page wedding website",
+        "image_fallback": {
+            "src": "/clients/berichinlove/main.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "image_main": {
+            "src": "/clients/berichinlove/main.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "image_thumbnail": {
+            "src": "/clients/berichinlove/thumbnail.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "background_color": "#98a77a",
+        "image_gallery": [""],
+        "src": "berichinlove.com",
+        "tags": ["website", "react"]
+    },
+    {
+        "_id": 2,
+        "start_date": 2002,
+        "end_date": 2003,
+        "client": "brstory",
+        "description": "Single page wedding website",
+        "blurb": "Photobooth Service",
+        "image_fallback": {
+            "src": "/clients/berichinlove/main.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "image_main": {
+            "src": "/clients/berichinlove/main.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "image_thumbnail": {
+            "src": "/clients/berichinlove/thumbnail.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "featured_image": {
+            "feature": "main.png",
+            "thumbnail": "thumbnail.png",
+            "custom": "",
+            "client": "berichinlove - Single page wedding website",
+            "background_color": "#98a77a"
+        },
+        "background_color": "#f5ddd8",
+        "images": [""],
+        "src": "brstory.com",
+        "tags": ["website", "react"]
+    },
+    {
+        "_id": 3,
+        "start_date": 2015,
+        "end_date": 2020,
+        "client": "melanieliying",
+        "description": "Single page wedding website",
+        "blurb": "Post Portume Serivce",
+        "image_fallback": {
+            "src": "/clients/berichinlove/main.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "image_main": {
+            "src": "/clients/berichinlove/main.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "image_thumbnail": {
+            "src": "/clients/berichinlove/thumbnail.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "background_color": "#cce2e1",
+        "images": ["image-1.png"],
+        "src": "melanieliying.com",
+        "tags": ["website", "Shopify", "Liquid"]
+    },
+    {
+        "_id": 4,
+        "start_date": 2015,
+        "end_date": 2020,
+        "client": "viva naturals",
+        "description": "Single page wedding website",
+        "blurb": "e-commerce",
+        "image_fallback": {
+            "src": "/clients/berichinlove/main.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "image_main": {
+            "src": "/clients/berichinlove/main.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "image_thumbnail": {
+            "src": "/clients/berichinlove/thumbnail.png",
+            "alt": "",
+            "sizes": {
+                "width": null,
+                "height": null
+            }
+        },
+        "background_color": "#cce2e1",
+        "images": ["image-1.png"],
+        "src": "vivanaturals.com",
+        "tags": ["website", "Shopify", "Liquid"]
+    }
+]
